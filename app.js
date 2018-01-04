@@ -1,6 +1,6 @@
 'use strict'
 
-var Koa = require('koa');  
+var Koa = require('koa');
 var path = require('path');
 var fs = require('fs');
 var Wechat = require('./wechat/wechat');//微信方法
